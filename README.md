@@ -50,14 +50,16 @@ You simply enter the parameters needed.
 
 ###### actions 
 The `scrape_data` function takes in 2 parameters:
-    - search_word
-    - no_of_results
+
+        - search_word
+        - no_of_results
     
 It returns a csv file containing the scraped data to your current directory
 
 The `send_to_db` function takes in all the other parameters:
-    - search_word
-    - no_of_results
+
+        - search_word
+        - no_of_results
     
 It converts your csv file into a dataframe and writes a table with its contents into the postgres database on heroku
 
