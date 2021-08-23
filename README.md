@@ -35,18 +35,18 @@ You simply enter the parameters needed.
 ##### Parameters
 
 ###### input search word and number of search results
-search_word = ''
-no_of_results = 0
+* search_word = ''
+* no_of_results = 0
 
 ###### input path to csv and desired table name for your database on heroku
-path_to_csv = '' #the csv file containing your scraped data
-table_name = ''
+* path_to_csv = '' #the csv file containing your scraped data
+* table_name = ''
 
 ###### input your database credentials
-user = ''
-password = ''
-host = ''
-database = ''
+* user = ''
+* password = ''
+* host = ''
+* database = ''
 
 ###### actions 
 The `scrape_data` function takes in 2 parameters:
