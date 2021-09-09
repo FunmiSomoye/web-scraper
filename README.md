@@ -1,4 +1,4 @@
-# Web Scrapper
+# Web Scraper
 ### [Next Lithuania][1]
 
 This is a web scrapping project that scrapes from an ecommerce website - [Next Lithuania][1], and saves to a heroku postgres database.
